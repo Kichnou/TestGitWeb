@@ -34,7 +34,7 @@ public class NewServlet extends HttpServlet {
         response.setContentType("text/html;charset=UTF-8");
         try (PrintWriter out = response.getWriter()) {
             /* TODO output your page here. You may use following sample code. */
-            //Ceci est un test
+            //Ceci est un test de fusion
         }
     }
 
